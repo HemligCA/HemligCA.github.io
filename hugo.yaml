@@ -47,117 +47,121 @@ markup:
 
 params:
   author: Nusser Studios
-  authorimage: ../assets/images/global/author.webp
+  authorimage: ../assets/images/global/icon.webp
   og_image: /images/tailbliss-cover.png
-  moto: "Super Fast, and Flexible"
-  description: "A Hugo theme built with love, using TailwindCSS 3, Alpine.JS, and Hugo Pipes. Images are optimized for use with Hugo Pipes for WebP format."
+  moto: "Private, Accurate and Efficient"
+  description: "We are trying to make the usage of large models more privacy-preserving and regulated. Upon it, we provide our featured products always ensuring user privacy. Our products are supported with the latest outcomes in academia."
   disable_theme_toggle: false
   disable_stay_uptodate: false
 
-  p1:
-    heading: "Our mission"
-    image: "images/pages/our-mission.png"
-    content:
-      - text: "Sagittis scelerisque nulla cursus in enim consectetur quam. Dictum urna sed consectetur neque tristique pellentesque. Blandit amet, sed aenean erat arcu morbi. Cursus faucibus nunc nisl netus morbi vel porttitor vitae ut. Amet vitae fames senectus vitae."
-      - text: "Sollicitudin tristique eros erat odio sed vitae, consequat turpis elementum. Lorem nibh vel, eget pretium arcu vitae. Eros eu viverra donec ut volutpat donec laoreet quam urna. Sollicitudin tristique eroserat odio sed vitae, consequat turpis elementum. Lorem nibh vel, eget pretium arcu vitae. Eros eu viverra donec ut volutpat donec laoreet quam urna."
-      - text: "Rhoncus nisl, libero egestas diam fermentum dui. At quis tincidunt vel ultricies. Vulputate aliquet velit faucibus semper. Pellentesque in venenatis vestibulum consectetur nibh id. In id ut tempus egestas. Enim sit aliquam nec, a. Morbi enim fermentum lacus in. Viverra."
-  p2:
-    heading: "Just in time for Hacktoberfest with JIT Tailwind."
-    image: "images/pages/hacktoberfest.jpg"
-    content:
-      - text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur at purus non enim commodo tincidunt vel in nulla. Aenean pretium dolor non ultricies bibendum. Etiam quis blandit enim. Nunc condimentum ut lorem in faucibus. Phasellus varius ligula et commodo tristique. Nunc sodales nisl nec laoreet vehicula. Donec velit nibh, sollicitudin at nulla a, egestas dignissim eros. Sed lacinia hendrerit interdum. Vestibulum pellentesque sem venenatis nisl tempor accumsan sit amet tempus felis. Mauris leo diam, porttitor nec bibendum id, tempus ac nulla. Etiam congue ornare erat at convallis. Donec in nisi dapibus, mattis risus vel, imperdiet enim. Donec fermentum sit amet tortor nec tincidunt. Nam nec lectus tortor. Nunc sit amet laoreet orci, porta ornare massa. Phasellus eget lorem mi. Nam eleifend ultricies sapien, quis mollis leo bibendum at. Quisque viverra lorem sit amet magna aliquet, et dignissim arcu eleifend."
-  p3:
-    heading: "Backed by world-renowned investors"
-    content:
-      - text: "Sagittis scelerisque nulla cursus in enim consectetur quam. Dictum urna sed consectetur neque tristique pellentesque. Blandit amet, sed aenean erat arcu morbi. Cursus faucibus nunc nisl netus morbi vel porttitor vitae ut. Amet vitae fames senectus vitae."
-    links:
-      - text: Meet our investors and advisors
-        url: "#"
-    logos:
-      - identifier: a
-        image: "images/global/sample-logo.svg"
-        alt: "a"
-      - identifier: b
-      - identifier: c
-      - identifier: d
-      - identifier: e
-      - identifier: f
-  p4:
-    heading: "From the blog"
-    content:
-      - text: "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ipsa libero labore natus atque, ducimus sed."
+  # p1:
+  #   heading: "Our mission"
+  #   image: "images/pages/our-mission.png"
+  #   content:
+  #     - text: "Sagittis scelerisque nulla cursus in enim consectetur quam. Dictum urna sed consectetur neque tristique pellentesque. Blandit amet, sed aenean erat arcu morbi. Cursus faucibus nunc nisl netus morbi vel porttitor vitae ut. Amet vitae fames senectus vitae."
+  #     - text: "Sollicitudin tristique eros erat odio sed vitae, consequat turpis elementum. Lorem nibh vel, eget pretium arcu vitae. Eros eu viverra donec ut volutpat donec laoreet quam urna. Sollicitudin tristique eroserat odio sed vitae, consequat turpis elementum. Lorem nibh vel, eget pretium arcu vitae. Eros eu viverra donec ut volutpat donec laoreet quam urna."
+  #     - text: "Rhoncus nisl, libero egestas diam fermentum dui. At quis tincidunt vel ultricies. Vulputate aliquet velit faucibus semper. Pellentesque in venenatis vestibulum consectetur nibh id. In id ut tempus egestas. Enim sit aliquam nec, a. Morbi enim fermentum lacus in. Viverra."
+  # p2:
+  #   heading: "Just in time for Hacktoberfest with JIT Tailwind."
+  #   image: "images/pages/hacktoberfest.jpg"
+  #   content:
+  #     - text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur at purus non enim commodo tincidunt vel in nulla. Aenean pretium dolor non ultricies bibendum. Etiam quis blandit enim. Nunc condimentum ut lorem in faucibus. Phasellus varius ligula et commodo tristique. Nunc sodales nisl nec laoreet vehicula. Donec velit nibh, sollicitudin at nulla a, egestas dignissim eros. Sed lacinia hendrerit interdum. Vestibulum pellentesque sem venenatis nisl tempor accumsan sit amet tempus felis. Mauris leo diam, porttitor nec bibendum id, tempus ac nulla. Etiam congue ornare erat at convallis. Donec in nisi dapibus, mattis risus vel, imperdiet enim. Donec fermentum sit amet tortor nec tincidunt. Nam nec lectus tortor. Nunc sit amet laoreet orci, porta ornare massa. Phasellus eget lorem mi. Nam eleifend ultricies sapien, quis mollis leo bibendum at. Quisque viverra lorem sit amet magna aliquet, et dignissim arcu eleifend."
+  # p3:
+  #   heading: "Backed by world-renowned investors"
+  #   content:
+  #     - text: "Sagittis scelerisque nulla cursus in enim consectetur quam. Dictum urna sed consectetur neque tristique pellentesque. Blandit amet, sed aenean erat arcu morbi. Cursus faucibus nunc nisl netus morbi vel porttitor vitae ut. Amet vitae fames senectus vitae."
+  #   links:
+  #     - text: Meet our investors and advisors
+  #       url: "#"
+  #   logos:
+  #     - identifier: a
+  #       image: "images/global/sample-logo.svg"
+  #       alt: "a"
+  #     - identifier: b
+  #     - identifier: c
+  #     - identifier: d
+  #     - identifier: e
+  #     - identifier: f
+  # p4:
+  #   heading: "From the blog"
+  #   content:
+  #     - text: "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ipsa libero labore natus atque, ducimus sed."
   p5:
-    heading: "Stay Up to Date"
+    heading: "Act Now!"
     content:
-      - text: "Sagittis scelerisque nulla cursus in enim consectetur quam. Dictum urna sed consectetur neque tristique pellentesque."
+      - text: "Leave your email here and make the payments. We will contact your shortly for customized services depending on the products you choose."
     action: "#"
     label: "Email address"
     placeholder: "Enter your email"
-    button: "Notify me"
+    button: "Make the Payment"
 
   social_media:
     github:
       enabled: true
-      url: 'https://github.com/nusserstudios'
-    facebook:
-      enabled: true
-      url: 'https://facebook.com/nusserstudios'
-    instagram:
-      enabled: true
-      url: 'https://instagram.com/nusserstudios'
-    twitter:
-      enabled: true
-      url: 'https://twitter.com/nusserstudios'
+      url: 'https://github.com/HemligCA'
+    # facebook:
+    #   enabled: true
+    #   url: 'https://facebook.com/nusserstudios'
+    # instagram:
+    #   enabled: true
+    #   url: 'https://instagram.com/nusserstudios'
+    # twitter:
+    #   enabled: true
+    #   url: 'https://twitter.com/nusserstudios'
     
 
 menu:
   main:
-    - identifier: Products
-      name: Product
-      url: /prose/
+    - identifier: product
+      pre: complexdropdown
+      name: Products
       weight: 10
+    - identifier: Research
+      name: Research
+      # url: /prose/
+      weight: 20
     - identifier: About Us
       name: About Us
-      url: /about/
-      weight: 20
-    - identifier: categories
-      pre: dropdown
-      name: Categories
+      # url: /about/
       weight: 30
-    - identifier: dropdown
-      pre: complexdropdown
-      name: Dropdown
-      weight: 40
+    # - identifier: categories
+    #   pre: dropdown
+    #   name: Categories
+    #   weight: 20
     - identifier: contact
       name: Contact
-      url: /contact/
-      weight: 50
-  categories:
-    - identifier: prose
-      name: Prose
-      url: /prose/
-      weight: 10
-    - identifier: about
-      name: About
-      url: /about/
-      weight: 20
-  dropdown:
-    - identifier: appearance
+      # url: /contact/
+      weight: 40
+    # - identifier: coreer
+    #   name: Career
+    #   url: /contact/
+    #   weight: 50
+  # categories:
+  #   - identifier: prose
+  #     name: Prose
+  #     url: /prose/
+  #     weight: 10
+  #   - identifier: about
+  #     name: About
+  #     url: /about/
+  #     weight: 20
+  product:
+    - identifier: bastet
       pre: stars # can be stars, comments or piechart
-      name: Appearance
-      post: "Easy customization"
+      name: Bastet
+      post: "Date with Mistery"
       url: "#"
       weight: 10
-    - identifier: comments
+    - identifier: thoth
       pre: comments # can be stars, comments or piechart
-      name: Comments
-      post: "Check your latest comments"
+      name: Thoth
+      post: "Privacy-preserving Academic Guidance"
       url: "#"
       weight: 20
-    - identifier: analytics
+    - identifier: sobek
       pre: piechart # can be stars, comments or piechart
-      name: Analytics
-      post: "Take a look at your statistics"
+      name: Sobek
+      post: "Safe-guard Your LLMs"
       url: "#"
       weight: 30
   footer:
@@ -165,18 +169,18 @@ menu:
       name: About
       url: /about/
       weight: 10
-    - identifier: blog
-      name: Blog
-      url: /categories/blog/
-      weight: 20
-    - identifier: news
-      name: News
-      url: /categories/news/
-      weight: 30
-    - identifier: prose
-      name: Prose
-      url: /prose/
-      weight: 40
+    # - identifier: blog
+    #   name: Blog
+    #   url: /categories/blog/
+    #   weight: 20
+    # - identifier: news
+    #   name: News
+    #   url: /categories/news/
+    #   weight: 30
+    # - identifier: prose
+    #   name: Prose
+    #   url: /prose/
+    #   weight: 40
     - identifier: contact
       name: Contact
       url: /contact/
