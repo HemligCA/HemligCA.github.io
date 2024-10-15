@@ -1,5 +1,5 @@
 baseURL: ''
-title: TailBliss
+title: Hemlig
 languageCode: en-us
 DefaultContentLanguage: en
 enableEmoji: true
@@ -112,12 +112,12 @@ params:
 
 menu:
   main:
-    - identifier: prose
-      name: Prose
+    - identifier: Products
+      name: Product
       url: /prose/
       weight: 10
-    - identifier: about
-      name: About
+    - identifier: About Us
+      name: About Us
       url: /about/
       weight: 20
     - identifier: categories
