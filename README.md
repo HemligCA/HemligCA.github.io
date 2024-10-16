@@ -1,1 +1,1 @@
-![research1](https://github.com/HemligCA/HemligCA.github.io/blob/main/images/research/investment.png)
+![research1](https://github.com/HemligCA/HemligCA.github.io/blob/main/static/images/icon-removebg.png)
