@@ -111,7 +111,7 @@
       <link>/research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/research/</guid>
-      <description>Privacy-preserving Language Model&#xD;In our evaluation algorithms for exploring potential vulnerabilities in large language models such as ChatGPT, Llama3, and Qwen, we can explore 10 times more. We combine various techniques including RedTeaming, Fuzzing, and Jailbreaking to exhaustively find potential privacy leakage. On the opposite side, we can defend against these existing vulnerabilities through differential privacy, unlearning, etc., better than existing solutions.&#xD;&amp;lt;!-- &amp;lt;div class=&amp;quot;overflow-hidden sm:pt-6 lg:relative&amp;quot;&amp;gt;&#xD;&amp;lt;div class=&amp;quot;max-w-md px-4 mx-auto sm:max-w-3xl sm:px-6 lg:grid lg:max-w-7xl lg:grid-cols-2 lg:gap-12 lg:px-8&amp;quot;&amp;gt;&#xD;&amp;lt;div&amp;gt;&#xD;&amp;lt;div class=&amp;quot;md:mt-8&amp;quot;&amp;gt;&#xD;&amp;lt;div class=&amp;quot;mt-6 sm:max-w-xl&amp;quot;&amp;gt;&#xD;&amp;lt;h2 class=&amp;quot;text-3xl font-extrabold tracking-tight text-gray-900 dark:text-white sm:text-4xl md:mt-16&amp;quot;&amp;gt;&#xD;{{ .</description>
+      <description>Privacy-preserving Language Model In our evaluation algorithms for exploring potential vulnerabilities in large language models such as ChatGPT, Llama3, and Qwen, we can explore 10 times more. We combine various techniques including RedTeaming, Fuzzing, and Jailbreaking to exhaustively find potential privacy leakage. On the opposite side, we can defend against these existing vulnerabilities through differential privacy, unlearning, etc., better than existing solutions.</description>
     </item>
   </channel>
 </rss>
