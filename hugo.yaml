@@ -122,7 +122,7 @@ menu:
       weight: 20
     - identifier: About Us
       name: About Us
-      # url: /about/
+      url: /about/
       weight: 30
     # - identifier: categories
     #   pre: dropdown
