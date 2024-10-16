@@ -118,7 +118,7 @@ menu:
       weight: 10
     - identifier: Research
       name: Research
-      # url: /prose/
+      url: /research/
       weight: 20
     - identifier: About Us
       name: About Us
@@ -130,7 +130,7 @@ menu:
     #   weight: 20
     - identifier: contact
       name: Contact
-      # url: /contact/
+      url: /contact/
       weight: 40
     # - identifier: coreer
     #   name: Career

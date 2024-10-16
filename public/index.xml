@@ -97,7 +97,7 @@
       <link>/contact/</link>
       <pubDate>Sat, 18 Dec 2021 03:10:36 +0000</pubDate>
       <guid>/contact/</guid>
-      <description> Got a technical issue? Want to send feedback about a beta feature? Need details about our Business plan? Let us know.&#xA;Your Email: Subject: Your message: Send Message </description>
+      <description> Got a technical issue? Want to send feedback? Need details about our Business plan? Let us know.&#xA;Your Email: Subject: Your message: Send Message </description>
     </item>
     <item>
       <title>News Post 3</title>
@@ -107,11 +107,11 @@
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed cursus, odio nec venenatis lacinia, lacus lectus varius nisi, in tristique mi purus ut libero.</description>
     </item>
     <item>
-      <title>Prose</title>
-      <link>/prose/</link>
-      <pubDate>Sat, 18 Dec 2021 11:10:36 +0800</pubDate>
-      <guid>/prose/</guid>
-      <description>@tailwindcss/typography View on GitHub!&#xA;Beautiful typographic defaults for HTML you don&amp;rsquo;t control.&#xA;The official Tailwind CSS Typography plugin provides a set of prose classes you can use to add beautiful typographic defaults to any vanilla HTML you don’t control, like HTML rendered from Markdown, or pulled from a CMS.&#xA;Tailwind CSS IntelliSense extension for Visual Studio Code&#xA;&amp;lt;article class=&amp;#34;prose lg:prose-xl&amp;#34;&amp;gt;&#xD;{{ markdown }}&#xD;&amp;lt;/article&amp;gt; To see what it looks like in action, check out our live demo on Tailwind Play.</description>
+      <title>Research Highlights</title>
+      <link>/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/research/</guid>
+      <description>Privacy-preserving Language Model&#xD;In our evaluation algorithms for exploring potential vulnerabilities in large language models such as ChatGPT, Llama3, and Qwen, we can explore 10 times more. We combine various techniques including RedTeaming, Fuzzing, and Jailbreaking to exhaustively find potential privacy leakage. On the opposite side, we can defend against these existing vulnerabilities through differential privacy, unlearning, etc., better than existing solutions.&#xD;&amp;lt;!-- &amp;lt;div class=&amp;quot;overflow-hidden sm:pt-6 lg:relative&amp;quot;&amp;gt;&#xD;&amp;lt;div class=&amp;quot;max-w-md px-4 mx-auto sm:max-w-3xl sm:px-6 lg:grid lg:max-w-7xl lg:grid-cols-2 lg:gap-12 lg:px-8&amp;quot;&amp;gt;&#xD;&amp;lt;div&amp;gt;&#xD;&amp;lt;div class=&amp;quot;md:mt-8&amp;quot;&amp;gt;&#xD;&amp;lt;div class=&amp;quot;mt-6 sm:max-w-xl&amp;quot;&amp;gt;&#xD;&amp;lt;h2 class=&amp;quot;text-3xl font-extrabold tracking-tight text-gray-900 dark:text-white sm:text-4xl md:mt-16&amp;quot;&amp;gt;&#xD;{{ .</description>
     </item>
   </channel>
 </rss>
