@@ -90,7 +90,7 @@ params:
     heading: "Act Now!"
     content:
       - text: "Leave your email here and make the payments. We will contact your shortly for customized services depending on the products you choose."
-    action: "#"
+    action: "https://buy.stripe.com/eVa6rHgzX7228z6cMM"
     label: "Email address"
     placeholder: "Enter your email"
     button: "Make the Payment"
