@@ -25,4 +25,21 @@ EmojiSymbols;
     color: white !important;
 }
 
+.home-page {
+    max-width: 100vw;
+    overflow-x: hidden;
+}
+
+.home-page * {
+    min-width: 0;
+}
+
+.home-page h1,
+.home-page h2,
+.home-page h3,
+.home-page p,
+.home-page li {
+    overflow-wrap: break-word;
+}
+
 /* Custom CSS end */

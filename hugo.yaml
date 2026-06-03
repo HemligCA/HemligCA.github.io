@@ -46,11 +46,11 @@ markup:
       xhtml: false
 
 params:
-  author: Nusser Studios
+  author: Hemlig
   authorimage: ../assets/images/global/icon.webp
   og_image: /images/tailbliss-cover.png
-  moto: "Private, Accurate and Efficient"
-  description: "We are trying to make the usage of large models more privacy-preserving and regulated. Upon it, we provide our featured products always ensuring user privacy. Our products are supported with the latest outcomes in academia."
+  moto: "Privacy, Visibility and AI Agents"
+  description: "Hemlig builds privacy-preserving AI API defenses, AI-search optimization, and multi-model career application agents for companies and individuals."
   disable_theme_toggle: false
   disable_stay_uptodate: false
 
@@ -87,13 +87,13 @@ params:
   #   content:
   #     - text: "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ipsa libero labore natus atque, ducimus sed."
   p5:
-    heading: "Act Now!"
+    heading: "Start with Hemlig"
     content:
-      - text: "Leave your email here and make the payments. We will contact your shortly for customized services depending on the products you choose."
+      - text: "Share your email and the product you want to explore. We will follow up with the right privacy, search, or career-agent workflow."
     action: "https://buy.stripe.com/eVa6rHgzX7228z6cMM"
     label: "Email address"
     placeholder: "Enter your email"
-    button: "Make the Payment"
+    button: "Get Started"
 
   social_media:
     github:
@@ -146,23 +146,23 @@ menu:
   #     url: /about/
   #     weight: 20
   product:
-    - identifier: bastet
+    - identifier: securerag
       pre: stars # can be stars, comments or piechart
-      name: Bastet
-      post: "Date with Mistery"
-      url: "#"
+      name: SecureRAG Gateway
+      post: "Defend public AI APIs, RAG stores, and tool calls"
+      url: "/#products"
       weight: 10
-    - identifier: thoth
+    - identifier: ai-search-growth
       pre: comments # can be stars, comments or piechart
-      name: Thoth
-      post: "Privacy-preserving Academic Guidance"
-      url: "#"
+      name: AI Search Growth
+      post: "Increase visibility in AI search and answer engines"
+      url: "/#products"
       weight: 20
-    - identifier: sobek
+    - identifier: careerlift
       pre: piechart # can be stars, comments or piechart
-      name: Sobek
-      post: "Safe-guard Your LLMs"
-      url: "#"
+      name: CareerLift Agent
+      post: "Improve CVs, resumes, and application materials"
+      url: "/#products"
       weight: 30
   footer:
     - identifier: about
